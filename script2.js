@@ -1,0 +1,9 @@
+
+// For switching between tabs
+
+$(document).ready(function(){
+    $('#myTabs a').on('click', function (e) {
+        e.preventDefault();
+        $(this).tab('show');
+    });
+});

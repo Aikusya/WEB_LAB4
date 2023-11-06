@@ -1,0 +1,54 @@
+body #title {
+    background-color: #131729;
+    }
+
+#title .container-fluid .row .col-lg-6 .title-img {
+    height: 420px;
+    width: 350px;
+    }
+
+.container-fluid {
+    padding: 3% 25%;
+    }
+
+.container-fluid .row {
+    padding: 10% 0;
+    }
+
+.container-fluid .row .exclusive button {
+    margin: 19% 4% 0 0;
+    }
+
+#features {
+    padding: 7% 15%;
+    text-align: center;
+    }
+
+#features .list {
+    margin: 15% 0 5%;
+    }
+
+#features .list .list-group li {
+    font-weight: bold;
+    }
+
+
+#carousel {
+    margin: 5% 10%;
+    }
+
+#cards h2 {
+    margin: 10% 0 4% 0;
+    text-align: center;
+    font-weight: bold;
+    }
+
+#hoverLearn {
+    font-size: 30px;
+    margin: 155px 0;
+    }
+
+#hoverImage {
+            width: 200px;
+            transition: border-color 0.3s ease; /* Add a smooth transition effect */
+        }
